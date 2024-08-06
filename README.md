@@ -1,9 +1,5 @@
-# iris-detection
-Here's a reformatted version of your research description suitable for a GitHub README:
+# Iris-Detection
 
----
-
-# Real-Time Head Pose Estimation and Gaze Detection
 
 ## Overview
 
